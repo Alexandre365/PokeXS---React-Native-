@@ -26,11 +26,13 @@ under development
 - [@alexandreRibeiro](https://github.com/Alexandre365)
 
 ## Download 
+<div  align="center">
 <a href="/apk/PokeXS_version_1_0_0.apk" download>
   PokeXS - version: 1.0.0
 </a>
 <a href="/apk/PokeXS_version_1_1_0.apk" download>
   PokeXS - version: 1.1.0
 </a>
+</div>
 
 
